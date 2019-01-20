@@ -1,0 +1,29 @@
+Script started on Sat 03 Jun 2017 11:02:28 PM PDT
+]0;004741853@jb358-1:~/cse202/lab8[?1034h[004741853@jb358-1 lab8]$ g++ Sorting.cpp
+]0;004741853@jb358-1:~/cse202/lab8[004741853@jb358-1 lab8]$ ./a.out
+5
+10
+15
+20
+25
+30
+35
+40
+
+enter a number to search: 
+1
+15
+18
+40
+30
+50
+number 1 not found
+number 15 is in position 2
+number 18 not found
+number 40 is in position 7
+number 30 is in position 5
+number 50 not found
+]0;004741853@jb358-1:~/cse202/lab8[004741853@jb358-1 lab8]$ exit
+exit
+
+Script done on Sat 03 Jun 2017 11:03:14 PM PDT

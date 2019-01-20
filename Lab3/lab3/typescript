@@ -1,0 +1,18 @@
+Script started on Mon 24 Apr 2017 02:58:36 PM PDT
+]0;004741853@jb358-1:~/cse202/lab3[?1034h[004741853@jb358-1 lab3]$ exitssh jb358-1[7Pexitvi String_main.cpp[1@g++[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@g++[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@g++[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@g++[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kssh jb358-1[7Pexit[Kexitssh jb358-1[7Pexitssh jb358-1[7Pexit[K./a.out
+Lenght of array: 3
+1 2 3 4 
+1 2 
+1 2 1 2 3 4 
+strx= abcdstry= efg
+strlen(strx)= 4 Strlen(stry)= 3
+strx= efg
+strx= efgefg
+strcmp(strx, stry)= 0
+strcmp(stry, "efg")= 0
+stry= hi
+stry= hi jkl
+]0;004741853@jb358-1:~/cse202/lab3[004741853@jb358-1 lab3]$ exit
+exit
+
+Script done on Mon 24 Apr 2017 02:58:58 PM PDT

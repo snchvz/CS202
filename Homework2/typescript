@@ -1,0 +1,24 @@
+Script started on Mon 01 May 2017 12:24:17 AM PDT
+]0;004741853@jb358-1:~/cse202/homework2[?1034h[004741853@jb358-1 homework2]$ CSE2[K[K[K[K./a.out
+Please enter a course name: CSE202, PHYS221, MATH272, HIST101
+CSE202
+Jack
+Joe
+Kathy
+
+]0;004741853@jb358-1:~/cse202/homework2[004741853@jb358-1 homework2]$ ./a.out
+Please enter a course name: CSE202, PHYS221, MATH272, HIST101
+MATH272
+Jack
+Kim
+Tony
+
+]0;004741853@jb358-1:~/cse202/homework2[004741853@jb358-1 homework2]$ ./a.out
+Please enter a course name: CSE202, PHYS221, MATH272, HIST101
+PHIL100
+course not found
+
+]0;004741853@jb358-1:~/cse202/homework2[004741853@jb358-1 homework2]$ exit
+exit
+
+Script done on Mon 01 May 2017 12:24:45 AM PDT

@@ -1,0 +1,31 @@
+Script started on Mon 15 May 2017 02:24:52 PM PDT
+]0;004741853@jb358-1:~/cse202/lab6[?1034h[004741853@jb358-1 lab6]$ g++ count.cpp
+]0;004741853@jb358-1:~/cse202/lab6[004741853@jb358-1 lab6]$ ./a.out
+Enter a file name to count.
+test
+3 11 56
+Enter another file? (y/n)
+y
+Enter a file name to count.
+choir
+3 7 32
+Enter another file? (y/n)
+n
+]0;004741853@jb358-1:~/cse202/lab6[004741853@jb358-1 lab6]$ ./a.out
+Enter a file name to count.
+grip
+3 4 18
+Enter another file? (y/n)
+]0;004741853@jb358-1:~/cse202/lab6[004741853@jb358-1 lab6]$ ./a.out
+Enter a file name to count.
+m
+Couldn't find file 'm' please enter a valid file name 
+malkavian
+2 5 21
+Enter another file? (y/n)
+y
+Enter a file name to count.
+]0;004741853@jb358-1:~/cse202/lab6[004741853@jb358-1 lab6]$ exit
+exit
+
+Script done on Mon 15 May 2017 02:26:19 PM PDT

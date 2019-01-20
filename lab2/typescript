@@ -1,0 +1,23 @@
+Script started on Mon 17 Apr 2017 01:35:22 PM PDT
+]0;004741853@jb358-1:~/cse202/lab2[?1034h[004741853@jb358-1 lab2]$ ./a.out
+enter numbers for vector a, enter -1 to end
+2
+4
+6
+-1
+enter numbers for vector b, enter -1 to end
+6
+8
+9
+-1  2
+1
+-1
+vector appended: 2 4 6 6 8 9 2 1 
+vector merged: 2 6 4 8 6 9 2 1 
+vector merged and sorted: 1 2 2 4 6 6 8 9 
+]0;004741853@jb358-1:~/cse202/lab2[004741853@jb358-1 lab2]$ end
+bash: end: command not found...
+]0;004741853@jb358-1:~/cse202/lab2[004741853@jb358-1 lab2]$ exit
+exit
+
+Script done on Mon 17 Apr 2017 01:36:07 PM PDT

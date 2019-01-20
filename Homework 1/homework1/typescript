@@ -1,0 +1,31 @@
+Script started on Wed 19 Apr 2017 03:13:23 PM PDT
+]0;004741853@jb358-1:~/cse202/homework1[?1034h[004741853@jb358-1 homework1]$ joe [K
+bash: joe: command not found...
+]0;004741853@jb358-1:~/cse202/homework1[004741853@jb358-1 homework1]$ ./a.out
+Enter a set of name, salary pairs, terminate with -1 -1
+joe
+50
+sam
+100
+tim
+15
+-- 1
+-1
+Raise anybody's salary? yes
+Enter name and percent: joe
+50
+50%
+Amount Raised: 25
+Raise anybody ele's salary? yes
+Enter name and percent: sam
+10
+10%
+Amount Raised: 10
+Raise anybody ele's salary? no
+joe 75
+sam 110
+tim 15
+]0;004741853@jb358-1:~/cse202/homework1[004741853@jb358-1 homework1]$ exit
+exit
+
+Script done on Wed 19 Apr 2017 03:14:20 PM PDT

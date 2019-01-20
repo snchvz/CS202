@@ -1,0 +1,14 @@
+Script started on Mon 08 May 2017 02:36:12 PM PDT
+]0;004741853@jb358-1:~/cse202/lab5/lab5uml[?1034h[004741853@jb358-1 lab5uml]$ ./a.out
+Jill 3/11/70
+Sam 5/4/94
+    student, Major: CS
+Mr. Bryan 9/9/77
+    Instructor, Salary: 11000
+Ms. Felicia 1/19/81
+    Instructor, Salary: 20000
+Bryan 9/9/77
+]0;004741853@jb358-1:~/cse202/lab5/lab5uml[004741853@jb358-1 lab5uml]$ exit
+exit
+
+Script done on Mon 08 May 2017 02:36:20 PM PDT

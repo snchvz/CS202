@@ -1,0 +1,21 @@
+Script started on Mon 10 Apr 2017 02:51:20 PM PDT
+]0;004741853@jb358-1:~/cse202/lab1[?1034h[004741853@jb358-1 lab1]$ ./a.n[Kout
+initial balance: 10000
+interest rate: 6%
+
+Ending balance: 20122
+
+years it took to double: 12
+]0;004741853@jb358-1:~/cse202/lab1[004741853@jb358-1 lab1]$ ./a.out
+initial balance: 10000
+interest rate: 6%
+
+Ending balance: 20122
+
+years it took to double: 12
+]0;004741853@jb358-1:~/cse202/lab1[004741853@jb358-1 lab1]$ ls
+Account.cpp  Account.h  Account_main.cpp  Account_main.o  Account.o  [0m[01;32ma.out[0m  Bank.cpp  Bank.h  Bank_main.cpp  file  typescript
+]0;004741853@jb358-1:~/cse202/lab1[004741853@jb358-1 lab1]$ exit
+exit
+
+Script done on Mon 10 Apr 2017 02:52:31 PM PDT

@@ -1,0 +1,18 @@
+Script started on Sat 03 Jun 2017 11:06:58 PM PDT
+]0;004741853@jb358-1:~/cse202/lab7[?1034h[004741853@jb358-1 lab7]$ g++ palindrome.cpp
+]0;004741853@jb358-1:~/cse202/lab7[004741853@jb358-1 lab7]$ ./a.out
+Enter a string: ex ammaxe
+'ex ammaxe' is a palindrome.
+]0;004741853@jb358-1:~/cse202/lab7[004741853@jb358-1 lab7]$ ./a.out
+Enter a string: Madam,  I,madaM
+'Madam,I,madaM' is a palindrome.
+]0;004741853@jb358-1:~/cse202/lab7[004741853@jb358-1 lab7]$ ./a.out
+Enter a string: a man a plan a c a nalp a nam a
+'a man a plan a c a nalp a nam a' is a palindrome.
+]0;004741853@jb358-1:~/cse202/lab7[004741853@jb358-1 lab7]$ ./a.out
+Enter a string: a man, a plan, a canal - Panama!
+'a man, a plan, a canal - Panama!' is a palindrome.
+]0;004741853@jb358-1:~/cse202/lab7[004741853@jb358-1 lab7]$ exit
+exit
+
+Script done on Sat 03 Jun 2017 11:08:46 PM PDT

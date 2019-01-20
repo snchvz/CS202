@@ -1,0 +1,21 @@
+Script started on Mon 01 May 2017 01:44:09 PM PDT
+]0;004741853@jb358-1:~/cse202/lab4[?1034h[004741853@jb358-1 lab4]$ ./a.out
+Jack already exists
+Who is Jackie 's best friend? Rod
+Who is Jack 's best friend? Connie
+Who is Amanda 's best friend? sam   Sam
+couldn't find best friend Sam
+Who is Amanda 's best friend? Roger
+couldn't find best friend Roger
+Who is Amanda 's best friend? Connie
+Who is Rod 's best friend? Connie
+Who is Connie 's best friend? Rod
+Jackie    Rod        0
+Jack      Connie     0
+Amanda    Connie     0
+Rod       Connie     2
+Connie    Rod        3
+]0;004741853@jb358-1:~/cse202/lab4[004741853@jb358-1 lab4]$ exit
+exit
+
+Script done on Mon 01 May 2017 01:45:10 PM PDT
